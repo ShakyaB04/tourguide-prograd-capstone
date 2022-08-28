@@ -1,0 +1,9 @@
+
+body {
+    background: linear-gradient(90deg, rgba(98,96,126,1) 11%, rgba(37,40,175,1) 34%, rgba(52,52,227,1) 54%, rgba(27,111,129,1) 90%); 
+}
+
+* {
+    /* font-family: 'Noto Sans JP' !important; */
+    font-family: 'Heebo', sans-serif !important;
+}
